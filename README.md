@@ -21,7 +21,7 @@ I'm a **junior frontend developer** who is studying software engineering at Cybe
 - 🔭 I’m currently working on **Clone coding** Airbnb website
 - 🧡 I love yoga and climbing
 - 🔆 My favorite quote is "You only are free when you realize you belong no place - you belong every place - no place at all."
-- 👩‍💻 Check out my dev-[blog](www.jjdev.me)
+- 👩‍💻 Check out my dev-[blog](http://www.jjdev.me)
 
 ## ⚙️ Tech
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=black)&nbsp;
