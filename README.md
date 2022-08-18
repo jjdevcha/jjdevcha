@@ -28,6 +28,7 @@ I'm a **junior frontend developer** who is studying software engineering at Cybe
 ![React](https://img.shields.io/badge/React-34d2eb?style=flat&logo=react&logoColor=white)&nbsp;
 ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)&nbsp;
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white)&nbsp;
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 
 ## 📬 How to contact
 - 📧 jungincha923@gmail.com
