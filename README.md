@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ## 👋 Hello there! I'm Jung-In
 I'm a **junior frontend developer** who is studying software engineering at Cyber University of Korea. With strong passion for learning and growing, I really hope I can help people and businesses to build their own responsive web/ app.
-- 🌱 My current interest is **APIs** and JavaScript **Frameworks**
+- 🌱 My current interest is **APIs** and **Node Js**
 - 🔭 I’m currently working on **MBTI** website
 - 🧡 I love yoga and climbing
 - 🔆 My favorite quote is "You only are free when you realize you belong no place - you belong every place - no place at all."
