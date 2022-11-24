@@ -1,7 +1,6 @@
 
 
 <!--
-**Jungincha/jungincha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -15,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## 👋 Hello there! I'm Jung-In
+## 👋 Hello there! I'm JJ
 I'm a **junior frontend developer** who is studying software engineering at Cyber University of Korea. With strong passion for learning and growing, I really hope I can help people and businesses to build their own responsive web/ app.
 - 🌱 My current interest is **APIs** and **Node Js**
 - 🔭 I’m currently working on **Climbing** log website
@@ -31,4 +30,4 @@ I'm a **junior frontend developer** who is studying software engineering at Cybe
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white)&nbsp;
 
 ## 📬 How to contact
-- 📧 jungincha923@gmail.com
+- 📧 [Email](jungincha923@gmail.com)
