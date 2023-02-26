@@ -15,19 +15,20 @@ Here are some ideas to get you started:
 -->
 
 ## 👋 Hello there! I'm JJ
-I'm a **junior frontend developer** who is studying software engineering at Cyber University of Korea. With strong passion for learning and growing, I really hope I can help people and businesses to build their own responsive web/ app.
-- 🌱 My current interest is **APIs** and **npm**
+I'm a **frontend developer** who is studying software engineering at Cyber University of Korea. With strong passion for learning and growing, I hope I can help people and businesses to build their own responsive web/ app.
+- 🌱 My current interest is **React** and **Node.js**
 - 🔭 I’m currently working on **Food recipe app** website
 - 🧡 I love yoga and climbing
 - 🔆 My favorite quote is "You only are free when you realize you belong no place - you belong every place - no place at all."
 - 👩‍💻 Check out my dev-[blog](http://www.jjdev.me)
 
 ## ⚙️ Tech
+![HTML](https://img.shields.io/badge/HTML-239120?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-239120?&style=flat&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=black)&nbsp;
 ![React](https://img.shields.io/badge/React-34d2eb?style=flat&logo=react&logoColor=white)&nbsp;
-![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)&nbsp;
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)&nbsp;
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white)&nbsp;
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white)&nbsp;
 
 ## 📬 How to contact
 - 📧 [Email](jungincha923@gmail.com)
