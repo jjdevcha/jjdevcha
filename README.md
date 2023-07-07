@@ -19,7 +19,7 @@ I'm a graduate in bachelor of **software engineering** at Cyber University of Ko
 - 🌱 My current interest is **React** and **Node.js**
 - 🔭 I’m currently working on **Wedding invitation** and **Food recipe website** website
 - 🧡 I love yoga and climbing
-- 👩‍💻 Check out my dev-[blog](http://www.jjdev.me)
+- 👩‍💻 Check out my dev-[blog](https://jjdevcha.github.io/)
 - Check out my recent [project](https://heesunjunwedding.netlify.app/)
 
 ## ⚙️ Tech
