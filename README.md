@@ -20,7 +20,7 @@ I'm a graduate in bachelor of **software engineering** at Cyber University of Ko
 - 🔭 I’m currently working on **Wedding invitation** and **Food recipe website** website
 - 🧡 I love yoga and climbing
 - 👩‍💻 Check out my dev-[blog](https://jjdevcha.github.io/)
-- Check out my recent [project](https://heesunjunwedding.netlify.app/)
+- Check out my [portfolio](https://jjdev-portfolio.netlify.app)
 
 ## ⚙️ Tech
 ![HTML](https://img.shields.io/badge/HTML-239120?style=flat&logo=html5&logoColor=white)
@@ -31,4 +31,4 @@ I'm a graduate in bachelor of **software engineering** at Cyber University of Ko
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white)&nbsp;
 
 ## 📬 How to contact
-- 📧 [Email](jungincha923@gmail.com)
+- 📧 [Email](jungincha95@gmail.com)
