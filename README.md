@@ -18,7 +18,6 @@ Here are some ideas to get you started:
 I'm a graduate in bachelor of **software engineering** at Cyber University of Korea. With strong passion for learning and growing, I hope I can help people and businesses to build their own responsive web/ app.
 - 🌱 My current interest is **Tailwind** and **Next js**
 - 🔭 I’m currently working on **Wedding invitation** and **Food recipe website** website
-- 🧡 I love yoga and climbing
 - 👩‍💻 Check out my dev-[blog](https://jjdevcha.github.io/)
 - Check out my [portfolio](https://jjdev-portfolio.netlify.app)
 
