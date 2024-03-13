@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## 👋 Hello there! I'm JJ
+## 👋 Hello there
 I'm a graduate in bachelor of **software engineering** at Cyber University of Korea. With strong passion for learning and growing, I hope I can help people and businesses to build their own responsive web/ app.
 - 🌱 My current interest is **SST** and **AWS**
 - 🔭 I’m currently working on **note app** made with **SST**
