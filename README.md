@@ -17,17 +17,14 @@ Here are some ideas to get you started:
 ## 👋 Hello there
 I'm a graduate in bachelor of **software engineering** at Cyber University of Korea. With strong passion for learning and growing, I hope I can help people and businesses to build their own responsive web/ app.
 - 🌱 My current interest is **SST** and **NEXTjs**
-- 🔭 I’m currently working on **Tailwind** practice
+- 🔭 I’m currently working at **Clubfunders** which is a startup powering payments between brands, sports clubs, and athletes.
 - 👩‍💻 Check out my dev-[blog](https://jjdevcha.github.io/)
 - Check out my [portfolio](https://jjdev-portfolio.netlify.app)
 
 ## ⚙️ Tech
-![HTML](https://img.shields.io/badge/HTML-239120?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-239120?&style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=black)&nbsp;
-![React](https://img.shields.io/badge/React-34d2eb?style=flat&logo=react&logoColor=white)&nbsp;
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)&nbsp;
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white)&nbsp;
+- Frontend: React, Typescript, Material UI, TailwindCSS
+- Backend: Node, Next.js, SQL
+- Tools: AWS, Git, VScode
 
 ## 📬 How to contact
 - 📧 [Email](jungincha95@gmail.com)
