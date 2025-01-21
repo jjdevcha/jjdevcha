@@ -16,14 +16,14 @@ Here are some ideas to get you started:
 
 ## 👋 Hello there
 I'm a graduate in bachelor of **software engineering** at Cyber University of Korea. With strong passion for learning and growing, I hope I can help people and businesses to build their own responsive web/ app.
-- 🌱 My current interest is **SST** and **NEXTjs**
-- 🔭 I’m currently working at **Clubfunders** which is a startup powering payments between brands, sports clubs, and athletes.
+- 🌱 My current interest is **SST** and **Supabase**
+- 🔭 I’m currently working at **Disrupt Digital** as a junior software engineer
 - 👩‍💻 Check out my dev-[blog](https://jjdevcha.github.io/)
 - Check out my [portfolio](https://jjdev-portfolio.netlify.app)
 
 ## ⚙️ Tech
 - Frontend: React, Typescript, Material UI, TailwindCSS
-- Backend: Node, Next.js, SQL
+- Backend: Node, Next.js, SQL, SST, Supabase
 - Tools: AWS, Git, VScode
 
 ## 📬 How to contact
