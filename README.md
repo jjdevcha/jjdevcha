@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 ## 👋 Hello there
 I'm a graduate in bachelor of **software engineering** at Cyber University of Korea. With strong passion for learning and growing, I hope I can help people and businesses to build their own responsive web/ app.
-- 🌱 My current interest is **SST** and **Supabase**
+- 🌱 My current interest is **Redux** and **Supabase**
 - 🔭 I’m currently working at **Disrupt Digital** as a junior software engineer
 - 👩‍💻 Check out my dev-[blog](https://jjdevcha.github.io/)
 - Check out my [portfolio](https://jjdev-portfolio.netlify.app)
