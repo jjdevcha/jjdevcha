@@ -19,12 +19,9 @@ I'm a graduate in bachelor of **software engineering** at Cyber University of Ko
 - 🌱 My current interest is **Redux** and **Supabase**
 - 🔭 I’m currently working at **Disrupt Digital** as a junior software engineer
 - 👩‍💻 Check out my dev-[blog](https://jjdevcha.github.io/)
-- Check out my [portfolio](https://jjdev-portfolio.netlify.app)
 
 ## ⚙️ Tech
 - Frontend: React, Typescript, Material UI, TailwindCSS
 - Backend: Node, Next.js, SQL, SST, Supabase
 - Tools: AWS, Git, VScode
 
-## 📬 How to contact
-- 📧 [Email](jungincha95@gmail.com)
