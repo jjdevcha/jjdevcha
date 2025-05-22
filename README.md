@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 ## 👋 Hello there
 I'm a growth oriented **software developer**. With strong passion for learning and growing, I hope I can help people and businesses to build their own responsive web/ app.
 - 🌱 My current interest is **Redux** and **Supabase**
+- ⚙️ Current project [MySend](https://github.com/jjdevcha/mysend)
 - 👩‍💻 Check out my dev-[blog](https://jjdevcha.github.io/)
 
 ## ⚙️ Tech
