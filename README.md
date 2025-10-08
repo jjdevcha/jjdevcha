@@ -21,8 +21,7 @@ I'm a growth oriented **software developer**. With strong passion for learning a
 - 👩‍💻 Check out my dev-[blog](https://jjdevcha.github.io/)
 
 ## ⚙️ Tech
-- Frontend: React, Typescript, Material UI, TailwindCSS
-- Backend: Node, Next.js, SQL, SST, Supabase
-- Framwork: Redux
-- Tools: AWS, Git, VScode
+- Languages: Javascript, Typescript, SQL, HTML/ CSS, Python
+- Framwork/ Library: React, Redux, Material UI, TailwindCSS, NodeJs, NextJs
+- Tools: Git, VScode
 
