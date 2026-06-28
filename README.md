@@ -12,15 +12,15 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- ⚙️ Current project [Spacio](https://github.com/jjdevcha/spacio-backend)
 -->
 
 ## 👋 Hello there
-I'm a growth oriented **software developer**. With strong passion for learning and growing, I hope I can help people and businesses to build their own responsive web/ app.
-- ⚙️ Current project [Spacio](https://github.com/jjdevcha/spacio-backend)
+I'm a growth oriented **software engineer**. With strong passion for learning and growing, I hope I can help people and businesses to build their own responsive web/ app.
 - 👩‍💻 Check out my dev-[blog](https://jjdevcha.github.io/)
 
 ## ⚙️ Tech
 - Languages: Javascript, Typescript, SQL, HTML/ CSS, Python
 - Framwork/ Library: React, React Native, Redux, Material UI, TailwindCSS, NodeJs, NextJs
-- Tools: Git, VScode
+- Tools: Git, VScode, Postman
 
