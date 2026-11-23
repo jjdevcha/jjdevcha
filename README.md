@@ -17,7 +17,6 @@ Here are some ideas to get you started:
 
 ## 👋 Hello there
 I'm a growth oriented **software engineer**. With strong passion for learning and growing, I hope I can help people and businesses to build their own responsive web/ app.
-- 👩‍💻 Check out my dev-[blog](https://jjdevcha.github.io/)
 
 ## ⚙️ Tech
 - Languages: Javascript, Typescript, SQL, HTML/ CSS, Python
